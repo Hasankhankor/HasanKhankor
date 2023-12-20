@@ -4,8 +4,8 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Mobile Developer and bring your expertise to the forefront of mobile app development. You will design, build, and maintain cutting-edge iOS and Android applications, making a significant impact in the fast-paced world of mobile technology. If you're passionate about crafting exceptional user experiences and have a strong background in mobile app development, we want to hear from you. Join us to create the next generation of mobile innovations.
-- 📱 &nbsp; Passionate about perfection in app development with a keen eye for detail. 📱 Quality Assurance Specialist with a knack for hunting down bugs 🐛3+ years of experience in professional mobile application development.
+- 🤔 &nbsp; Software Engineer who brings  expertise to the forefront of website development and mobile app development. You will design, build, and maintain cutting-edge iOS and Android applications, making a significant impact in the fast-paced world of mobile technology. If you're passionate about crafting exceptional user experiences and have a strong background in mobile app development, we want to hear from you. Join us to create the next generation of mobile innovations.
+- 📱 &nbsp; Passionate about perfection in app development with a keen eye for detail. 📱 Quality Assurance Specialist with a knack for hunting down bugs 🐛3+ years of experience in professional website development  and mobile application development.
 
 <br>
 
