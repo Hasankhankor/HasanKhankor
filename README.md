@@ -13,7 +13,7 @@
 
 
 
-### 💻 Stack I Work With
+### 💻 Full-Stack I Work With
 
 <br>
 
